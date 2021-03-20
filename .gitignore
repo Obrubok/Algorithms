@@ -1,0 +1,9 @@
+.idea
+**/*.txt
+**/*.txt*
+**/cmake-build-debug
+/TestIO/
+/TestOfDeletingMemory/
+/Sorts/untitled/
+**/build-*/
+**/*.pro*
